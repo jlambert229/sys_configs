@@ -8,4 +8,4 @@ sudo cp ./colors/bashrc /home/"$LOCAL_USER"/.bashrc
 sudo cp ./colors/dircolors /home/"$LOCAL_USER"/.dircolors
 sudo cp ./colors/onedark_prompt.sh /home/"$LOCAL_USER"/.onedark_prompt.sh
 
-echp 'color changes completed, please log out and log back in.'
+echo 'color changes completed, please log out and log back in.'
